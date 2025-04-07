@@ -1,0 +1,22 @@
+{
+    "devices" : [        
+        {
+            "sysname" : "SW-Obj1-Huawei",
+            "managementIP" : "1.1.1.10",
+            "subnetMask" : "255.255.255.0",
+            "gatewayIP" : "1.1.1.1",
+            "locationSNMP" : "Obj1-Location",
+            "slot0ESN" : "AAAAAAAAAAAA",
+            "slot1ESN" : "BBBBBBBBBBBB"
+        },
+        {
+            "sysname" : "SW-Obj2-Huawei",
+            "managementIP" : "2.2.2.10",
+            "subnetMask" : "255.255.255.0",
+            "gatewayIP" : "2.2.2.1",
+            "locationSNMP" : "Obj2-Location",
+            "slot0ESN" : "CCCCCCCCCCCC",
+            "slot1ESN" : "DDDDDDDDDDDD"
+        }
+    ]
+}

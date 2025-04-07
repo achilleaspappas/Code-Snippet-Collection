@@ -1,0 +1,224 @@
+{
+        "devices": [
+
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                },
+                {
+                        "device_name":"DEVICE_NAME",
+                        "properties":{
+                                "device_type": "cisco_ios",
+                                "ip":"DEVICE_IP",
+                                "username":"DEVICE_USERNAME",
+                                "password":"DEVICE_PASSWORD",
+                                "secret":"DEVICE_ENABLE_PASSWORD"
+                        }
+                        
+                }
+                
+        ]
+}
