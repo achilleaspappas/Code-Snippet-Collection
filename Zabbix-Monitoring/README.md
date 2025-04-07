@@ -48,8 +48,6 @@ To get started with this project, follow these steps:
 
 > All fields are required for each row. Missing values will cause the script to skip that entry.
 
----
-
 ## Authors
 [Achilleas Pappas] - Created the scripts
 
